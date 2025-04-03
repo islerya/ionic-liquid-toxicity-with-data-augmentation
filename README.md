@@ -11,6 +11,8 @@ These are supplementary files (*.xlsx) and Python notebook code files (*.ipynb) 
 <a href="https://joiswa.com/abstract.php?id=312">ARTICLE #3: S. Sadaghiyanfam, H. Kamberaj, and Y. Isler, Interactive Graphical User Interface For Quantum Mechanics Simulations with PySCF, Journal of Intelligent Systems with Applications, vol. 7, issue 2, 31-39, 2024.</a>
 
 # Contributions:
-Safa Sadaghiyanfam, Ph.D.
-Hiqmet Kamberaj, Professor, International Balkan University
-Yalcin Isler, Professor, Alanya Alaaddin Keykubat University
+<ul>
+<li>Safa Sadaghiyanfam, Ph.D., Department of Biomedical Technologies, Izmir Katip Celebi University</li>
+<li>Hiqmet Kamberaj, Professor, Department of Computer Engineering, International Balkan University</li>
+<li>Yalcin Isler, Professor, Department of Electrical and Electronics Engineering, Alanya Alaaddin Keykubat University</li>
+</ul>
